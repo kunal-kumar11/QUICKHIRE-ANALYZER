@@ -2,7 +2,7 @@
 
 ## Overview
 
-The CV Analysis System is a web application built using Streamlit and MongoDB, designed to help users submit their CV details and provide administrators with analytical insights into the submitted data. The application features user and admin interfaces for data entry, management, and visualization.
+The QUICKHIRE-ANALYZER is a web application built using Streamlit and MongoDB, designed to help users submit their CV details and provide administrators with analytical insights into the submitted data. The application features user and admin interfaces for data entry, management, and visualization.
 
 ## Features
 
