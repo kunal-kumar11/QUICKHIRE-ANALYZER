@@ -1,4 +1,4 @@
-# CV Analysis System
+# QUICKHIRE ANALYZER
 
 ## Overview
 
